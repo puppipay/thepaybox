@@ -223,7 +223,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
         "https://puppipay.github.io/thepaybox/assets/data/coaid.json",
